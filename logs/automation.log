@@ -1,0 +1,16 @@
+12:11:57.844 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
+12:11:58.034 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
+12:11:58.264 [main] INFO  baseClass.BaseClass - User Enter the compose Message
+12:11:58.432 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
+12:13:02.693 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+12:13:02.733 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
+12:13:02.880 [main] INFO  baseClass.BaseClass - User click the location button
+12:13:03.632 [main] INFO  baseClass.BaseClass - User enter the location name
+12:13:04.311 [main] INFO  baseClass.BaseClass - User click the Suggestion location
+12:13:06.435 [main] INFO  baseClass.BaseClass - User click the checkIn button
+12:13:06.523 [main] INFO  baseClass.BaseClass - User enter the check In Date
+12:13:09.624 [main] INFO  baseClass.BaseClass - User click the checkout button
+12:13:09.712 [main] INFO  baseClass.BaseClass - User enter the check out Date
+12:13:09.785 [main] INFO  baseClass.BaseClass - User select the room button
+12:13:09.895 [main] INFO  baseClass.BaseClass - User click the adult button
+12:13:10.342 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
